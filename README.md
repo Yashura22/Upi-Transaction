@@ -56,6 +56,8 @@ Below are sample visuals from the analysis and dashboard:
 
 https://github.com/Yashura22/Upi-Transaction/blob/main/Chartviewupi.png
 
+https://github.com/Yashura22/Upi-Transaction/blob/main/tableviewupi.png
+
 
 
 
